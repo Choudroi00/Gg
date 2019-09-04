@@ -6,7 +6,7 @@ import termios
 import cookielib
 import pyxmpp2 as xmpp
 from xml.dom import minidom
-
+coding = UTF-8
 droid = androidhelper.Android () 
 
 message = droid.dialogGetInput('اداة قرصنة فايسبوك ', 'ادخل رابط الضحية.. صنع شعيب ').result
